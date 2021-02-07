@@ -1,0 +1,3 @@
+Role USER: view list (ID: fatih Password: 1234)
+Role EDITOR: view, create and edit (ID: java Password: java)
+Role ADMIN: view, create, edit and delete (ID: admin Password: admin)
