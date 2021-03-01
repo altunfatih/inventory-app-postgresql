@@ -5,7 +5,7 @@ This is an inventory application for e-commerce.
 - Spring Security
 - Thymelaf
 - Bootstrap
-- MySQL
+- PostgreSQL
 
 
 ## Requirements
